@@ -12,6 +12,18 @@
             <version>5.6.2</version>
         </dependency>
 
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_http</artifactId>
+            <version>5.6.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.jmeter</groupId>
+            <artifactId>ApacheJMeter_java</artifactId>
+            <version>5.6.2</version>
+        </dependency>
+
         <!-- RestAssured Dependency -->
         <dependency>
             <groupId>io.rest-assured</groupId>
@@ -39,6 +51,12 @@
             <groupId>io.gatling</groupId>
             <artifactId>gatling-core</artifactId>
             <version>3.9.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>com.google.code.gson</groupId>
+            <artifactId>gson</artifactId>
+            <version>2.11.0</version>
         </dependency>
     </dependencies>
     <build>
