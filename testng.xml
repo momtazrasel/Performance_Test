@@ -1,0 +1,7 @@
+<suite name="PerformanceTestSuite">
+    <test name="PerformanceTests">
+        <classes>
+            <class name="tests.PerformanceTests"/>
+        </classes>
+    </test>
+</suite>
