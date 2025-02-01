@@ -149,5 +149,5 @@ Records test results for analysis.
 ## Conclusion
 This guide provides a structured overview of JMeter’s menus and their functions. By understanding each menu option, users can efficiently design, execute, and analyze performance tests.
 
-Would you like a step-by-step example test plan added? Let us know! 🚀
+
 
